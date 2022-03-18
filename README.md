@@ -1,5 +1,5 @@
 # BVC
-
+#fir
 instal=>   pkg update && pkg upgrade 
 
 instal=>   pkg install python2 
