@@ -20,4 +20,4 @@ instal=>   ls
 
 intal=>     git pull
 
-instal= >  python2 memek_enc.py
+instal= >  python memek_enc.py
